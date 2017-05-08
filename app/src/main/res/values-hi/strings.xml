@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dootmenu_header">टीबी रेफरल और लर्निंग टूलकिट</string>
+
+    <string name="btn_en">टीबी रेफरल</string>
+    <string name="btn_hi">टीबी लर्निंग</string>
+
+    <string name="check_yes">हाँ</string>
+    <string name="check_no">नहीं</string>
+
+    <string name="screening">टीबी स्क्रीनिंग </string>
+
+    <string name="upload">अपलोड </string>
+
+    <string name="name">नाम</string>
+    <string name="age">उम्र</string>
+    <string name="sex">लिंग</string>
+    <string name="address">पता</string>
+    <string name="phone_No">फोन नंबर</string>
+    <string name="village">गाँव</string>
+    <string name="block">ब्लाक</string>
+    <string name="dmc">डीएमसी रेफरल</string>
+    <string name="district">जिला</string>
+    <string name="state">राज्य</string>
+    <string name="country">देश</string>
+    <string name="save">सेव करे </string>
+    <string name="cancel">कैंसिल  </string>
+
+    <!--<string name="hint_name">संदिग्ध के नाम </string>-->
+    <!--<string name="hint_age">आयु</string>-->
+    <!--<string name="hint_address">घर का पता </string>-->
+    <!--<string name="hint_phone">फोन नंबर.</string>-->
+
+
+
+    <string name="dmc_referred">डीएमसी :</string>
+    <string name="scn_date_time">स्क्रीनिंग की तारीख और समय:</string>
+    <string name="phone">फोन नंबर:</string>
+    <string name="test_status">जाँच अवस्था:</string>
+    <string name="test_result">जाँच परिणाम:</string>
+    <string name="scn_response">स्क्रीनिंग प्रतिक्रिया:</string>
+
+
+    <string name="my_account">खाता </string>
+    <string name="doot_name">दूत के नाम:</string>
+    <string name="doot_id">दूत की आईडी:</string>
+    <string name="account_no">A/C संख्या.:</string>
+    <string name="account_balance">A/C शेष:</string>
+    <string name="account_opendate">A/C खुलने की तारीख:</string>
+    <string name="my_passbook">पासबुक </string>
+
+    <string name="total_amount">कुल रकम:</string>
+    <string name="paid_amount">दी गई रकम:</string>
+    <string name="due_amount">बकाया राशि:</string>
+    <string name="btn_back">वापस</string>
+
+</resources>

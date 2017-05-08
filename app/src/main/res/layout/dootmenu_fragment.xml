@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+    android:paddingTop="10dp"
+    android:gravity="center"
+    android:background="@drawable/app_bg">
+
+<!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/dootmenu_header"-->
+    <!--android:textColor="@color/colorPrimary"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textStyle="bold"-->
+    <!--/>-->
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/tbImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/tbimage"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="-20dp"/>
+
+
+
+   <Button
+       android:layout_marginTop="10dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/tbreferral"
+       android:text="@string/btn_en"
+       android:textStyle="bold"
+       android:textAppearance="?android:attr/textAppearanceMedium"
+       android:textAllCaps="false"
+       android:background="@drawable/button_border"
+       android:height="60dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tblearning"
+        android:text="@string/btn_hi"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textAllCaps="false"
+        android:background="@drawable/button_border"
+        android:height="60dp"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+
+    <color name="colorPrimary1">#1C5685</color>
+    <color name="colorPrimaryTransparent">#335f50e1</color>
+    <color name="colorPrimaryDark">#194366</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#335f50e1</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#1C5685</color>
+    <color name="colorStatusBar">#C8FE2E</color>
+    <color name="colorOffGreen">#b8e786</color>
+
+    <color name="colorDMCaccent">#FF44738F</color>
+    <color name="colorDmcPrimary">#114C70</color>
+    <color name="colorDMCPrimaryTransparent">#33306A8F</color>
+    <color name="DMCwindowBackground">#33306A8F</color>
+    <color name="colorDmcPrimaryDark">#0D2D41</color>
+
+
+    <color name="colorSTSaccent">#388726</color>
+    <color name="colorSTSPrimary">#09A210</color>
+    <color name="colorSTSPrimaryTransparent">#3309A210</color>
+    <color name="STSwindowBackground">#3309A210</color>
+    <color name="colorSTSPrimaryDark">#154218</color>
+
+    <color name="colorOffRed">#fbed9986</color>
+    <color name="colorMOPHIaccent">#C16D2E</color>
+    <color name="colorMOPHIPrimary">#FE8225</color>
+    <color name="colorMOPHIrimaryTransparent">#33FE8225</color>
+    <color name="MOPHIwindowBackground">#33FE8225</color>
+    <color name="colorMOPHIPrimaryDark">#BF5707</color>
+
+    <color name="orange">#ff7f50</color>
+    <color name="green">#2B9C2B</color>
+    <color name="red">#D02525</color>
+
+    <color name="apptheme_color">#33b5e5</color>
+</resources>
+
+<!--<color name="colorPrimaryDark">#303F9F</color>-->
+<!--<color name="colorAccent">#FF4081</color>-->

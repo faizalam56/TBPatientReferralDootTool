@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Active Case Detection Kit</string>
+
+    <string-array name="drawerItem">
+        <item>Language</item>
+        <item>Settings</item>
+        <item>Refresh device</item>
+    </string-array>
+
+    <string-array name="drawerItem_hnd">
+        <item>भाषा</item>
+        <item>सेटिंग्स</item>
+        <item>रिफ्रेश करें </item>
+    </string-array>
+
+    <string name="screening">SCREENING</string>
+
+    <string name="upload">UPLOAD</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="dootmenu_header">Active Case Detection Kit</string>
+
+    <string name="btn_en">TB Referral</string>
+    <string name="btn_hi">TB Learning</string>
+
+    <string name="check_yes">Yes</string>
+    <string name="check_no">No</string>
+
+    <string-array name="main_menu_hnd">
+        <item>जाँच</item>
+        <item>अपलोड </item>
+        <item>रोगी देखें</item>
+        <item>रेफरल रिकार्ड</item>
+        <item>खाता</item>
+        <item>टीबी लर्निंग</item>
+    </string-array>
+
+    <string-array name="main_menu">
+        <item>Screening</item>
+        <item>Upload</item>
+        <item>View Patient</item>
+        <item>Referral Record</item>
+        <item>My Account</item>
+        <item>TB Learning</item>
+    </string-array>
+
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="address">Address</string>
+    <string name="phone_No">Phone No.</string>
+    <string name="village">Village</string>
+    <string name="block">Block</string>
+    <string name="dmc">DMC Referral</string>
+    <string name="district">District</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="hint_name">Suspect Name </string>
+    <string name="hint_age">Age</string>
+    <string name="hint_sex">Sex</string>
+    <string name="hint_address">House Address</string>
+    <string name="hint_phone">Phone No.</string>
+
+
+    <string name="dmc_referred">DMC Referred:</string>
+    <string name="scn_date_time">Screening Date and Time:</string>
+    <string name="phone">Phone No:</string>
+    <string name="test_status">Test Status:</string>
+    <string name="test_result">Test Result:</string>
+    <string name="scn_response">Screening Response:</string>
+
+
+    <string name="my_account">My Account</string>
+    <string name="doot_name">Doot Name:</string>
+    <string name="doot_id">Doot ID:</string>
+    <string name="account_no">A/C No.:</string>
+    <string name="account_balance">A/C Balance:</string>
+    <string name="account_opendate">A/C Open Date:</string>
+    <string name="my_passbook">My Passbook</string>
+
+    <string name="total_amount">Total Amount:</string>
+    <string name="paid_amount">Paid Amount:</string>
+    <string name="due_amount">Due Amount:</string>
+    <string name="btn_back">Back</string>
+
+
+    <string-array name="age">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </string-array>
+
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="app_version">Version 1.0</string>
+    <string name="app_release_date">10 February 2017</string>
+</resources>
